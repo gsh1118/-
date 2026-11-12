@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+pdfplumber
+jieba
+rank_bm25
+sentence-transformers
+chromadb
+openai
+python-docx
